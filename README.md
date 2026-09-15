@@ -11,7 +11,8 @@ Foi utilizada a marcação semântica do **HTML5** para estruturar a página e u
 O design foi inspirado nas características físicas da loja, utilizando tons de marrom e bege que remetem à madeira nobre das prateleiras e ao café moído na hora, respeitando a tradição de mais de 40 anos do negócio e unindo-a a uma navegação moderna.
 
 ---
+## Importante!
 O arquivo estilos.css completa o index.html estilizando o site e o deixando-o completo.
 
-## Membro da Equipe
+## Membro da Equipe(Individual)
 Luiz Feliphe Cordeiro de Andrade
